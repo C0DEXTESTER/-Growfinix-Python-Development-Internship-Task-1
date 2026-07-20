@@ -1,0 +1,175 @@
+=== RAW TOUR ENQUIRY LOG EXPORT ===
+Generated: 2026-07-18 | Records: (see below) | Format: UNSTRUCTURED
+
+Name: Aisha Smith
+Email: aisha95@yahoo.com
+Destination: Tokyo
+Message: Please send me a quote ASAP.
+
+To whom it may concern, my name is Grace Johnson and my email id is g.johnson@gmail.com. Kindly share packages for Bali.
+
+Enquiry #1003 - Hi, I'm John Taylor (j.taylor@yahoo.com) and I'd like to book a tour to Kashmir sometime next month.
+
+hi im Mei Petrova, wanted to ask about group tours to Atlantis. my mail - mei44@yahoo.com
+=== LOG EXPORT :: tour_enquiries_raw_dump.txt ===
+
+Enquiry submitted by Emma Davis (emma78@gmail.com) regarding upcoming Kashmir vacation package. Please call back.
+NOTE: duplicate entries below may exist due to form resubmission
+
+*** NEW LEAD ***
+From: Chloe Davis <chloedavis@gmail.com>
+Interested in: Paris
+Source: Website Form
+
+hi im Fatima Khan, wanted to ask about group tours to Singapore. my mail - fatima49@outlook.com
+NOTE: duplicate entries below may exist due to form resubmission
+
+Enquiry submitted by Robert Bennett (robertbennett@proton.me) regarding upcoming Tokyo vacation package. Please call back.
+
+
+Walk-in enquiry: Fatima Mehta, interested in Paris tour, no contact email provided.
+
+
+Hey team, this is Ivan Mehta - reach me at i.mehta@outlook.com. Thinking about a Kashmir trip!! Any deals??
+
+
+Hey team, this is Grace O'Brien - reach me at g.obrien@proton.me. Thinking about a Kerala trip!! Any deals??
+
+Enquiry submitted by Robert Kapoor (robertkapoor@yahoo.com) regarding upcoming Manali vacation package. Please call back.
+
+Walk-in enquiry: Noah Hussain, interested in New York tour, no contact email provided.
+[WARN] Entry corrupted during export, skipping...
+
+Name: Mei Wilson
+Email: mei1@proton.me
+Destination: Bangkok
+Message: Please send me a quote ASAP.
+
+Enquiry #1015 - Sofia Hussain called in asking about Singapore packages, said will email later.
+
+Name: Zara Smith
+Email: zara15@hotmail.com
+Destination: Tokyo
+Message: Please send me a quote ASAP.
+asdkjaslkjd 12903 !!! ??? corrupted_record_0x00
+
+Enquiry #1017 - Robert Taylor (roberttaylor@yahoo.com) asked general questions about international tour packages, no specific place mentioned yet.
+[WARN] Entry corrupted during export, skipping...
+
+hi im David Taylor, wanted to ask about group tours to Narnia Hills. my mail - davidtaylor@hotmail.com
+
+To whom it may concern, my name is Noah Khan and my email id is noahkhan@gmail.com. Kindly share packages for Switzerland.
+
+Enquiry #1020 - John Johnson (john.johnson@yahoo.com) asked general questions about international tour packages, no specific place mentioned yet.
+
+
+Dear Sir/Madam,
+Myself Liam Ali, I am planning a trip to Sydney with family of 4.
+Contact: liamali@proton.me
+Regards.
+
+Enquiry #1022 - Hi, I'm David Khan (d.khan@hotmail.com) and I'd like to book a tour to Manali sometime next month.
+
+Dear Sir/Madam,
+Myself Aisha Kapoor, I am planning a trip to Tokyo with family of 4.
+Contact: aisha52@gmail.com
+Regards.
+[SYSTEM] Auto-backup completed at 03:00 AM
+
+Enquiry #1024 - Hi, I'm Liam Wilson (liam.wilson@outlook.com) and I'd like to book a tour to London sometime next month.
+
+Enquiry #1025 - someone reached out from f.chen@outlook.com asking about Rome tour packages, name not caught on call.
+-------------------------------------------------
+
+*** NEW LEAD ***
+From: Kenji O'Brien <kenji59@outlook.com>
+Interested in: Sydney
+Source: Website Form
+-------------------------------------------------
+
+Hey team, this is Ivan Taylor - reach me at ivan8@gmail.com. Thinking about a Paris trip!! Any deals??
+
+
+To whom it may concern, my name is Robert Chen and my email id is robert.chen@yahoo.com. Kindly share packages for Kerala.
+
+Enquiry #1029 - Priya Bennett (p.bennett@proton.me) asked general questions about international tour packages, no specific place mentioned yet.
+
+Name: Arjun Ahmed
+Email: a.ahmed@yahoo.com
+Destination: Maldives
+Message: Please send me a quote ASAP.
+=== LOG EXPORT :: tour_enquiries_raw_dump.txt ===
+
+Enquiry #1031 - someone reached out from robert28@yahoo.com asking about Singapore tour packages, name not caught on call.
+
+*** NEW LEAD ***
+From: Mei Wilson <mei70@proton.me>
+Interested in: Bali
+Source: Website Form
+
+To whom it may concern, my name is Aisha Rodriguez and my email id is aisha.rodriguez@gmail.com. Kindly share packages for Dubai.
+
+Enquiry submitted by David O'Brien (d.obrien@hotmail.com) regarding upcoming Paris vacation package. Please call back.
+
+Walk-in enquiry: Priya Smith, interested in Bangkok tour, no contact email provided.
+
+Enquiry #1036 - someone reached out from aishajohnson@proton.me asking about Paris tour packages, name not caught on call.
+
+Name: Priya Rossi
+Email: priya.rossi@hotmail.com
+Destination: Rome
+Message: Please send me a quote ASAP.
+
+Hey team, this is Grace Petrova - reach me at gracepetrova@yahoo.com. Thinking about a Narnia Hills trip!! Any deals??
+###
+
+Enquiry #1039 - someone reached out from olgaahmed@gmail.com asking about Kerala tour packages, name not caught on call.
+asdkjaslkjd 12903 !!! ??? corrupted_record_0x00
+
+*** NEW LEAD ***
+From: Emma Rossi <emmarossi@gmail.com>
+Interested in: Rome
+Source: Website Form
+
+Enquiry #1041 - Liam Davis (l.davis@proton.me) asked general questions about international tour packages, no specific place mentioned yet.
+
+hi im Liam Chen, wanted to ask about group tours to London. my mail - liam75@gmail.com
+
+Enquiry submitted by Arjun Petrova (arjun.petrova@outlook.com) regarding upcoming Rome vacation package. Please call back.
+
+
+Name: David Davis
+Email: david.davis@hotmail.com
+Destination: Switzerland
+Message: Please send me a quote ASAP.
+
+Hey team, this is Sofia Hussain - reach me at s.hussain@hotmail.com. Thinking about a Kerala trip!! Any deals??
+[WARN] Entry corrupted during export, skipping...
+
+To whom it may concern, my name is Mei Bennett and my email id is mei73@outlook.com. Kindly share packages for Bali.
+
+To whom it may concern, my name is Ivan Bennett and my email id is ivan84@outlook.com. Kindly share packages for Kashmir.
+
+To whom it may concern, my name is Mei Johnson and my email id is mei37@gmail.com. Kindly share packages for Tokyo.
+
+To whom it may concern, my name is Carlos Smith and my email id is carlossmith@outlook.com. Kindly share packages for Goa.
+
+Enquiry #1050 - someone reached out from kenjiali@yahoo.com asking about Bali tour packages, name not caught on call.
+
+Enquiry #1051 - Fatima Chen (f.chen@gmail.com) asked general questions about international tour packages, no specific place mentioned yet.
+
+Enquiry #1052 - someone reached out from noah72@outlook.com asking about Manali tour packages, name not caught on call.
+
+*** NEW LEAD ***
+From: Zara Wilson <zarawilson@hotmail.com>
+Interested in: Sydney
+Source: Website Form
+
+To whom it may concern, my name is Sofia Ahmed and my email id is sofia35@hotmail.com. Kindly share packages for Goa.
+
+Enquiry submitted by Carlos Miller (c.miller@outlook.com) regarding upcoming Switzerland vacation package. Please call back.
+[WARN] Entry corrupted during export, skipping...
+
+435098 corrupted binary junk >>>> 0xFFDD sync error retry=3
+
+Random unrelated customer feedback: 'Great service, loved the hotel!' -- not an enquiry.
